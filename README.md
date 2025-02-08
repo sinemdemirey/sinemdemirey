@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">An entomophobic who is great at finding bugs!</h3>
 
-- 🔭 I’m currently working on **Trendyol - Seller Growth Team **
+- 🔭 I’m currently working on **Trendyol - Seller Growth Team**
 
 - 🌱 I’m currently learning **Playwright**
 
