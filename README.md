@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">An entomophobic who is great at finding bugs!</h3>
 
-- 🔭 I’m currently working on **Trendyol iOS App**
+- 🔭 I’m currently working on **Trendyol - Seller Growth Team **
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Playwright**
 
 - 📫 How to reach me **sinem.demirey@gmail.com**
 
